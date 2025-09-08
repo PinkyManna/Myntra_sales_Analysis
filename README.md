@@ -1,3 +1,4 @@
+
 ### 🛍️ Myntra E-commerce Product Dataset
 
 This repository contains a rich dataset of products from Myntra, one of India's leading e-commerce platforms. The data is organized into four distinct CSV files, each representing a key stage in the data analysis pipeline, from raw collection to final analysis.
@@ -30,4 +31,4 @@ This repository contains a rich dataset of products from Myntra, one of India's 
         * Sum of discounted and marked prices
         * Groupings by brand and product category
      
-![Myntra Dashboard](images/myntra dashboard pic.png)
+<img width="935" height="349" alt="myntra dashboard pic" src="https://github.com/user-attachments/assets/d3d5a4b6-d4bf-4366-a566-4303f0ab2bca" />
